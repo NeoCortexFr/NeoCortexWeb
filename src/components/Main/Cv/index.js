@@ -34,7 +34,7 @@ const Cv = () => (
       je recommande vivement !
     </p>
     <p className="cv_content">
-      Passer dire bonjour, ils ont des cookies !
+      Passez dire bonjour, ils ont des cookies !
 
     </p>
     <h3 className="cv_title">Mon Parcours:</h3>
@@ -80,7 +80,7 @@ const Cv = () => (
       Je suis aussi motard depuis plus de 10 ans.
     </p>
     <p className="cv_content">
-      Sans oublier le travail du bois. J'en suis à mon 5ème meuble construit de mes cvs.
+      Sans oublier le travail du bois. J'en suis à mon 5ème meuble construit de mes mains.
       Le DIY est un leitmotiv !
     </p>
   </article>
